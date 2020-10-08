@@ -65,7 +65,7 @@ print("The maximum monthly increase was: $" + str(max_increase))
 print("The average monthly change was: $" + str(new_avg))
 
 txtfile = open(analysis_path, "w+")
-txtfile.write('\n' + " Total months: $" + str(total_months))
+txtfile.write('\n' + " Total months: " + str(total_months))
 txtfile.write('\n' + " The total change was: $" + str(total_change))
 txtfile.write('\n' + " The maximum monthly decrease was: $" + str(max_decrease))
 txtfile.write('\n' + " The maximum monthly increase was: $" + str(max_increase))
