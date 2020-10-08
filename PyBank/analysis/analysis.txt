@@ -1,5 +1,5 @@
 
- Total months: $86
+ Total months: 86
  The total change was: $38382578
  The maximum monthly decrease was: $-1196225
  The maximum monthly increase was: $1170593
